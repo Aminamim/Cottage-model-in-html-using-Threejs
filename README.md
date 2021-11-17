@@ -1,3 +1,4 @@
+
 # Cottage-model-in-html-using-Threejs
 
 3D model has been rendered from my another github repository. 
@@ -6,3 +7,5 @@ Index html file defines the directories of required files and sets up canvas for
 The output is a web page with an interactive 3D model of a cottage.
 
 
+
+![Capture](https://user-images.githubusercontent.com/57713243/142228515-f3afac2e-73f6-4362-9064-9322432bbd5e.PNG)
